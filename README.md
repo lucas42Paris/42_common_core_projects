@@ -14,5 +14,6 @@ Listed in chronological order:
 8. [Minishell](https://github.com/lucas42paris/Minishell)
 9. [CPP_Modules](https://github.com/lucas42paris/CPP_Modules)
 10. [Cub3D](https://github.com/lucas42paris/Cub3D)
-11. [Inception](https://github.com/lucas42paris/Inception)
-12. [Webserv](https://github.com/lucas42paris/Webserv)
+11. [NetPractice](https://github.com/lucas42paris/NetPractice)
+12. [Inception](https://github.com/lucas42paris/Inception)
+13. [Webserv](https://github.com/lucas42paris/Webserv)
