@@ -1,4 +1,4 @@
-# 42_cursus_projects
+# 42_common_core_projects
 
 All the projects of the Common Core of [42 school](https://42.fr/en/homepage/).
 
