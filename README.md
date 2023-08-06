@@ -18,4 +18,4 @@ Listed in chronological order:
 12. [NetPractice](https://github.com/lucas42paris/NetPractice)
 13. [Inception](https://github.com/lucas42paris/Inception)
 14. [Webserv](https://github.com/lucas42paris/Webserv)
-15. [ft_transcendance](https://github.com/lucas42paris/ft_transcendance)
+15. [ft_transcendance](https://github.com/lucassalin/ft_transcendance)
