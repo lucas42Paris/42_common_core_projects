@@ -40,3 +40,6 @@
 [submodule "Philosophers"]
 	path = Philosophers
 	url = https://github.com/lucas42paris/Philosophers
+[submodule "ft_transcendance"]
+	path = ft_transcendance
+	url = https://github.com/lucassalin/ft_transcendance
