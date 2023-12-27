@@ -1,45 +1,45 @@
 [submodule "Libft"]
 	path = Libft
-	url = https://github.com/lucas42paris/Libft
+	url = https://github.com/lucassalin/Libft
 [submodule "get_next_line"]
 	path = get_next_line
-	url = https://github.com/lucas42paris/get_next_line
+	url = https://github.com/lucassalin/get_next_line
 [submodule "Pipex"]
 	path = Pipex
-	url = https://github.com/lucas42paris/Pipex
+	url = https://github.com/lucassalin/Pipex
 [submodule "Minishell"]
 	path = Minishell
-	url = https://github.com/lucas42paris/Minishell
+	url = https://github.com/lucassalin/Minishell
 [submodule "CPP_Modules"]
 	path = CPP_Modules
-	url = https://github.com/lucas42paris/CPP_Modules
+	url = https://github.com/lucassalin/CPP_Modules
 [submodule "NetPractice"]
 	path = NetPractice
-	url = https://github.com/lucas42paris/NetPractice
+	url = https://github.com/lucassalin/NetPractice
 [submodule "Born2beRoot"]
 	path = Born2beRoot
-	url = https://github.com/lucas42paris/Born2beRoot
+	url = https://github.com/lucassalin/Born2beRoot
 [submodule "Inception"]
 	path = Inception
-	url = https://github.com/lucas42paris/Inception
+	url = https://github.com/lucassalin/Inception
 [submodule "Webserv"]
 	path = Webserv
-	url = https://github.com/lucas42paris/Webserv
+	url = https://github.com/lucassalin/Webserv
 [submodule "Fract-ol"]
 	path = Fract-ol
-	url = https://github.com/lucas42paris/Fract-ol
+	url = https://github.com/lucassalin/Fract-ol
 [submodule "Cub3D"]
 	path = Cub3D
-	url = https://github.com/lucas42paris/Cub3D
+	url = https://github.com/lucassalin/Cub3D
 [submodule "ft_printf"]
 	path = ft_printf
-	url = https://github.com/lucas42paris/ft_printf
+	url = https://github.com/lucassalin/ft_printf
 [submodule "push_swap"]
 	path = push_swap
-	url = https://github.com/lucas42paris/push_swap
+	url = https://github.com/lucassalin/push_swap
 [submodule "Philosophers"]
 	path = Philosophers
-	url = https://github.com/lucas42paris/Philosophers
+	url = https://github.com/lucassalin/Philosophers
 [submodule "ft_transcendance"]
 	path = ft_transcendance
 	url = https://github.com/lucassalin/ft_transcendance
